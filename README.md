@@ -61,7 +61,7 @@ sdk list java
 - Generic: sdk install java `<Identifier>`
 
 ```bash
-sdk install java 17.0.9-graalce
+sdk install java 21.0.2-graalce
 ```
 - This will also set Java 17 as the default version.
 
